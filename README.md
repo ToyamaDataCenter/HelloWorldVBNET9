@@ -1,11 +1,11 @@
-# Hello, World! Visual Basic .NET with .NET6
-このリポジトリーは弊社で開催した 2023 年度インターンシップで利用したものです。
+# Hello, World! Visual Basic .NET with .NET9
+このリポジトリーは弊社で開催した 2025 年度インターンシップで利用したものです。
 内容は「Visual Basic .NET ではじめてのコーディング体験」です。
 
 # 使い方
 1. Visual Studio を起動
 1. メニューバーから \[Git\] \- \[リポジトリのクローン\] をクリック
-1. \[リポジトリの場所\] に `https://` と入力
+1. \[リポジトリの場所\] に `https://github.com/ToyamaDataCenter/HelloWorldVBNET9.git` と入力
 1. \[クローン\] をクリック
 
 おめでとうございます!! 初めてのプロジェクトを作成しました!!
